@@ -6,3 +6,4 @@ A CLI App made on python
 ## makedir: creates a directory
 ## deldir: removes an empty directory
 ## deltree: removes an empty or full directory
+## text: print text
